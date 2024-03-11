@@ -1,0 +1,67 @@
+h1 {
+  font-size: 3rem;
+  margin-bottom: 70px;
+}
+body {
+  text-align: center;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display: grid;
+  justify-content: center;
+}
+
+.blog-box {
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  width: 900px;
+}
+.blog-box:hover {
+  background-color: black;
+  color: white;
+  border-color: white;
+}
+p {
+  font-weight: 100;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+h1 {
+  font-size: 3rem;
+  margin-bottom: 70px;
+}
+form {
+  text-align: center;
+}
+body {
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display: grid;
+  justify-content: center;
+}
+input,
+button {
+  width: 400px;
+  height: 40px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+textarea {
+  width: 400px;
+  border-radius: 10px;
+}
+.btn,
+button {
+  background-color: black;
+  color: white;
+}
+.btn:hover,
+button:hover {
+  background-color: white;
+  color: black;
+}
